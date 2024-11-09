@@ -1,0 +1,2 @@
+# StoicMugshot
+StoicCAD MugShot resource
